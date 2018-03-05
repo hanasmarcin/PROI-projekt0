@@ -10,7 +10,7 @@ using namespace std;
 
 void Napis::wyswietl()
 {
-    cout << tekst << endl;
+    cout << "Hello world" << endl;
 }
 
 int main()
