@@ -17,5 +17,7 @@ void Napis::wyswietl()
 int main()
 {
     helloworld.wyswietl();
+    
+    
     return 0;
 }
