@@ -6,7 +6,10 @@ class Napis
 private:
     char tekst[12]="Hello world";
 public:
-    void wyswietl();
+    void wyswietl()
+    {
+        cout << tekst << endl;
+    }
 };
 
 Napis helloworld;
