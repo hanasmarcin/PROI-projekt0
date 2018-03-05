@@ -3,8 +3,6 @@
 
 class Napis
 {
-private:
-    char tekst[12]="Hello world";
 public:
     void wyswietl();
 };
